@@ -1,0 +1,14 @@
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\bin\Debug\ProjetoMosquitoVelho.exe.config
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\bin\Debug\ProjetoMosquitoVelho.exe
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\bin\Debug\ProjetoMosquitoVelho.pdb
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.csproj.AssemblyReference.cache
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.Properties.Resources.resources
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.csproj.GenerateResource.cache
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.csproj.CoreCompileInputs.cache
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.exe
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.pdb
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmSplash.resources
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmLogin.resources
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmCalculos.resources
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmComponentes.resources
+C:\Users\alcides.mbarbosa\Documents\Visual Studio 2019\ProjetoMosquitoVelho\ProjetoMosquitoVelho\obj\Debug\ProjetoMosquitoVelho.frmCalculadora.resources
